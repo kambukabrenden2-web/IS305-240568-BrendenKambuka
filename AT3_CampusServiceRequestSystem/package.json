@@ -1,0 +1,20 @@
+{
+  "name": "campus-service-request-system",
+  "version": "1.0.0",
+  "description": "Campus Service Request Management System - IS305 Major Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test tests/system.test.js"
+  },
+  "keywords": [
+    "object-oriented-programming",
+    "nodejs",
+    "console-application",
+    "divine-word-university"
+  ],
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
